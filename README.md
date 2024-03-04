@@ -15,7 +15,7 @@ In this project I will demonstrate how to create an Active Directory Environment
 - Windows 10 (22H2)
 - Windows Server 2019
 
-<h2> What We'll Need </h2>
+<h2> Download Links </h2>
 
 - [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [A Windows 10 22H2 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO)
